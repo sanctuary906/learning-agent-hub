@@ -1,0 +1,30 @@
+:root {
+  color-scheme: light;
+  --paper: #f7f7f2;
+  --paper-deep: #f4f4ef;
+  --ink: #050505;
+  --white: #ffffff;
+  --muted: #565656;
+  --line: #050505;
+  --green: #c6ff00;
+  --cyan: #00e5ff;
+  --magenta: #ff00c8;
+  --orange: #ff9800;
+  --yellow: #ffe500;
+  --purple: #8b5cf6;
+  --red: #ff3b30;
+  --blue: #2f6bff;
+  --gray: #deded6;
+  --shadow: 8px 8px 0 var(--ink);
+  --shadow-small: 5px 5px 0 var(--ink);
+  --radius: 10px;
+  --sidebar-width: 268px;
+  --sidebar-collapsed-width: 76px;
+  --header-height: 76px;
+  --ease-pop: cubic-bezier(0.2, 0.9, 0.2, 1);
+  --ease-press: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --duration-fast: 160ms;
+  --duration-base: 260ms;
+  --duration-slow: 420ms;
+  font-family: system-ui, "Arial Black", Impact, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
